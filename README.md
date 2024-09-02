@@ -1,3 +1,7 @@
+Inventory Manager: 
+
+This application allows users to track your inventory of anything. Users can  add items to their inventory, monitor quantities, and remove items when they’re ready. This app ultizes Next.js as our React framework, Material-UI for a responsive user interface, and Firebase Firestore as our backend database. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
